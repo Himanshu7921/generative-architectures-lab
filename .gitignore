@@ -2,3 +2,6 @@ data/
 saved_models/
 wandb/
 __pycache__/
+checkpoints/
+checkpoints_01/
+test_images/
