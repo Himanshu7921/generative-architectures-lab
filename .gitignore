@@ -3,8 +3,14 @@ saved_models/
 wandb/
 __pycache__/
 checkpoints/
-checkpoints_01/
-checkpoints_02/
+checkpoints_01_run_01/
+checkpoints_02_run_02/
+checkpoints_03_tanh_batchnorm/
+checkpoints_04_dropout_E/
+checkpoints_04_dropout_B/
+checkpoints_04_dropout_D/
 test_images/
 predictions/
 predictions_tanh_batchnorm/
+predictions_tanh/
+predictions_dropout/
