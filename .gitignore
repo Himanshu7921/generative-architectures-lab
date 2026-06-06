@@ -4,4 +4,7 @@ wandb/
 __pycache__/
 checkpoints/
 checkpoints_01/
+checkpoints_02/
 test_images/
+predictions/
+predictions_tanh_batchnorm/
