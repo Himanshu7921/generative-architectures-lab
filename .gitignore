@@ -5,3 +5,9 @@ __pycache__/
 checkpoints/
 checkpoints_01/
 test_images/
+checkpoints_01_run_01/
+checkpoints_02_run_02/
+checkpoints_03_tanh_batchnorm/
+predictions/
+predictions_tanh/
+predictions_tanh_batchnorm/
