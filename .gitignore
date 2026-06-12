@@ -11,3 +11,4 @@ checkpoints_03_tanh_batchnorm/
 predictions/
 predictions_tanh/
 predictions_tanh_batchnorm/
+final_model.pth
