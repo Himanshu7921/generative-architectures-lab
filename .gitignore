@@ -12,3 +12,4 @@ predictions/
 predictions_tanh/
 predictions_tanh_batchnorm/
 final_model.pth
+tea_debug.log
