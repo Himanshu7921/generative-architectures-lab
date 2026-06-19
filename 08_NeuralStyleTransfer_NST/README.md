@@ -16,3 +16,4 @@ In this notebook, I will:
 * Investigate how different layers influence content and style generation.
 
 The primary focus is learning, experimentation, and developing an intuition for CNN feature representations through Neural Style Transfer.
+![alt text](image.png)
